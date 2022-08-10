@@ -1,4 +1,4 @@
-## Hi dear,   I'm Marccelo Castillo
+## Hi dear, I'm Marccelo Castillo
 
 I am a beginner in the programming world, looking for a space in this huge universe of technology.
 
@@ -8,8 +8,8 @@ I am a beginner in the programming world, looking for a space in this huge unive
 
 <div>
   <a href="https://marccelocastillo.wixsite.com/my-site">
-<img height="180em"src="https://github-readme-stats.vercel.app/api?username=MarcceloCastillo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcceloCastillo&layout=compact&langs_count=7&theme=radical"/>
+<img height="150em"src="https://github-readme-stats.vercel.app/api?username=MarcceloCastillo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcceloCastillo&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
   ##
