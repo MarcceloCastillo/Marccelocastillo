@@ -2,7 +2,7 @@
 
 I am a beginner in the programming world, looking for a space in this huge universe of technology.
 
-- 🔭 I’m currently working on <strong>Pulsus</strong>.
+- 🔭 Currently working on <strong>Pulsus</strong>.
 - 📫 How to reach me: Marccelotrabalho@gmail.com
 - ⚡ Fun fact: I'm from Chile, but I live in Brazil.
 
@@ -23,7 +23,7 @@ I am a beginner in the programming world, looking for a space in this huge unive
 
 ##
 
-- 🌱 I’m currently learning <strong>HTML, JS, CSS and some other programming languages.</strong>
+- 🌱 Currently learning <strong>HTML, JS, CSS and some other programming languages.</strong>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marccelo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
