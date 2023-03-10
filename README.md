@@ -4,12 +4,13 @@ I am a beginner in the programming world, looking for a space in this huge unive
 
 - 🔭 Currently working on <strong>Pulsus</strong>.
 - 📫 How to reach me: Marccelotrabalho@gmail.com
-- ⚡ Fun fact: I'm from Chile, but I live in Brazil.
+- ⚡ Fun fact: I'm from Chile, but I live in Brazil and I like taking pictures and cooking🥰
+
+<br> <br>
 
 <div>
   <a href="https://marccelocastillo.wixsite.com/my-site">
 <img height="150em"src="https://github-readme-stats.vercel.app/api?username=MarcceloCastillo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcceloCastillo&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
   ##
